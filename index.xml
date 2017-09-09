@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YIng&#39;s Blog</title>
-    <link>https://YIng.github.io/</link>
+    <link>https://xiaoying1990.github.io/</link>
     <description>Recent content on YIng&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Aug 2017 18:03:09 +0800</lastBuildDate>
     
-	<atom:link href="https://YIng.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xiaoying1990.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theme preview</title>
-      <link>https://YIng.github.io/post/even-preview/</link>
+      <link>https://xiaoying1990.github.io/post/even-preview/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://YIng.github.io/post/even-preview/</guid>
+      <guid>https://xiaoying1990.github.io/post/even-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -27,75 +27,30 @@
     
     <item>
       <title>关于</title>
-      <link>https://YIng.github.io/about/</link>
+      <link>https://xiaoying1990.github.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>https://YIng.github.io/about/</guid>
+      <guid>https://xiaoying1990.github.io/about/</guid>
       <description>keep Dreaming, keep Living var ap1 = new APlayer({ element: document.getElementById(&#34;m1&#34;), narrow: false, autoplay: true, showlrc: false, mutex: true, theme: &#39;#16982B&#39;, preload: &#39;metadata&#39;, mode: &#39;circulation&#39;, music: { title: &#34;继续做梦&#34;, author: &#34;西奥Sio&#34;, url: &#34;\/musics\/西奥Sio - 继续做梦.mp3</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://YIng.github.io/post/test/</link>
+      <link>https://xiaoying1990.github.io/post/test/</link>
       <pubDate>Sun, 10 Sep 2017 00:58:43 +0800</pubDate>
       
-      <guid>https://YIng.github.io/post/test/</guid>
+      <guid>https://xiaoying1990.github.io/post/test/</guid>
       <description>&lt;h3 id=&#34;something-to-create-here&#34;&gt;something to create here!&lt;/h3&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Dddeessd</title>
-      <link>https://YIng.github.io/post/dddeessd/</link>
-      <pubDate>Sat, 09 Sep 2017 17:39:41 +0800</pubDate>
-      
-      <guid>https://YIng.github.io/post/dddeessd/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dddfee</title>
-      <link>https://YIng.github.io/post/dddee/</link>
-      <pubDate>Sat, 09 Sep 2017 16:39:45 +0800</pubDate>
-      
-      <guid>https://YIng.github.io/post/dddee/</guid>
-      <description>&lt;p&gt;fff&lt;/p&gt;
-
-&lt;div id=&#34;32785700&#34; class=&#34;aplayer&#34; style=&#34;&#34; &gt;
-&lt;script&gt;
- var ap1 = new APlayer({
-    element: document.getElementById(&#34;32785700&#34;),
-    narrow: false,
-    autoplay: true,
-    showlrc: false,
-    mutex: true,
-    theme: &#39;#16982B&#39;,
-    preload: &#39;metadata&#39;,
-    mode: &#39;circulation&#39;,
-    music: {
-        title: &#34;1&#34;,
-        author: &#34;error: index out of range for positional param at position 2&#34;,
-        url: &#34;error: index out of range for positional param at position 3&#34;,
-        pic: &#34;error: index out of range for positional param at position 4&#34;,
-    }
-});
-&lt;/script&gt;
-&lt;/div&gt;
-
-
-
-
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>English Creating a New Theme</title>
-      <link>https://YIng.github.io/post/english-preview/</link>
+      <link>https://xiaoying1990.github.io/post/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://YIng.github.io/post/english-preview/</guid>
+      <guid>https://xiaoying1990.github.io/post/english-preview/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
@@ -105,10 +60,10 @@
     
     <item>
       <title>日本語 敬語体系</title>
-      <link>https://YIng.github.io/post/japanese-preview/</link>
+      <link>https://xiaoying1990.github.io/post/japanese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>https://YIng.github.io/post/japanese-preview/</guid>
+      <guid>https://xiaoying1990.github.io/post/japanese-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに丁重語および美化語を含めた5分類を示している。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -122,10 +77,10 @@
     
     <item>
       <title>中文 《长恨歌》</title>
-      <link>https://YIng.github.io/post/chinese-preview/</link>
+      <link>https://xiaoying1990.github.io/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>https://YIng.github.io/post/chinese-preview/</guid>
+      <guid>https://xiaoying1990.github.io/post/chinese-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -145,10 +100,10 @@
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://YIng.github.io/post/syntax-highlighting/</link>
+      <link>https://xiaoying1990.github.io/post/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://YIng.github.io/post/syntax-highlighting/</guid>
+      <guid>https://xiaoying1990.github.io/post/syntax-highlighting/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
   alert(&amp;quot;Hello, World!&amp;quot;)
 }

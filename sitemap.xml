@@ -1,204 +1,190 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="https://YIng.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://xiaoying1990.github.iositemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://YIng.github.io/post/even-preview/</loc>
+    <loc>https://xiaoying1990.github.io/post/even-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/about/</loc>
+    <loc>https://xiaoying1990.github.io/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/post/test/</loc>
+    <loc>https://xiaoying1990.github.io/post/test/</loc>
     <lastmod>2017-09-10T00:58:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/post/dddeessd/</loc>
-    <lastmod>2017-09-09T17:39:41+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://YIng.github.io/post/dddee/</loc>
-    <lastmod>2017-09-09T16:39:45+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://YIng.github.io/post/english-preview/</loc>
+    <loc>https://xiaoying1990.github.io/post/english-preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/post/japanese-preview/</loc>
+    <loc>https://xiaoying1990.github.io/post/japanese-preview/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/post/chinese-preview/</loc>
+    <loc>https://xiaoying1990.github.io/post/chinese-preview/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/post/syntax-highlighting/</loc>
+    <loc>https://xiaoying1990.github.io/post/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/</loc>
+    <loc>https://xiaoying1990.github.io/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/categories/</loc>
+    <loc>https://xiaoying1990.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/english/</loc>
+    <loc>https://xiaoying1990.github.io/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/categories/english/</loc>
+    <loc>https://xiaoying1990.github.io/categories/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/post/</loc>
+    <loc>https://xiaoying1990.github.io/post/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/preview/</loc>
+    <loc>https://xiaoying1990.github.io/tags/preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/syntax-highlighting/</loc>
+    <loc>https://xiaoying1990.github.io/tags/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/categories/syntax-highlighting/</loc>
+    <loc>https://xiaoying1990.github.io/categories/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/tag-1/</loc>
+    <loc>https://xiaoying1990.github.io/tags/tag-1/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/tag-2/</loc>
+    <loc>https://xiaoying1990.github.io/tags/tag-2/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/tag-3/</loc>
+    <loc>https://xiaoying1990.github.io/tags/tag-3/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/tag-4/</loc>
+    <loc>https://xiaoying1990.github.io/tags/tag-4/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/tag-5/</loc>
+    <loc>https://xiaoying1990.github.io/tags/tag-5/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/</loc>
+    <loc>https://xiaoying1990.github.io/tags/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/theme-preview/</loc>
+    <loc>https://xiaoying1990.github.io/tags/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/categories/theme-preview/</loc>
+    <loc>https://xiaoying1990.github.io/categories/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/%E4%B8%AD%E6%96%87/</loc>
+    <loc>https://xiaoying1990.github.io/tags/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/categories/%E4%B8%AD%E6%96%87/</loc>
+    <loc>https://xiaoying1990.github.io/categories/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>https://xiaoying1990.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://YIng.github.io/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>https://xiaoying1990.github.io/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>

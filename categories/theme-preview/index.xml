@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme Preview on YIng&#39;s Blog</title>
-    <link>https://YIng.github.io/categories/theme-preview/</link>
+    <link>https://xiaoying1990.github.io/categories/theme-preview/</link>
     <description>Recent content in Theme Preview on YIng&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Aug 2017 18:03:09 +0800</lastBuildDate>
     
-	<atom:link href="https://YIng.github.io/categories/theme-preview/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xiaoying1990.github.io/categories/theme-preview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theme preview</title>
-      <link>https://YIng.github.io/post/even-preview/</link>
+      <link>https://xiaoying1990.github.io/post/even-preview/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://YIng.github.io/post/even-preview/</guid>
+      <guid>https://xiaoying1990.github.io/post/even-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;

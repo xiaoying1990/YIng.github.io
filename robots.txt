@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://YIng.github.io/sitemap.xml
+Sitemap: https://xiaoying1990.github.iositemap.xml
